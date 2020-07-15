@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,eACI,8BAA+B,CAC/B,aACJ","file":"main.64c22d87.chunk.css","sourcesContent":[".is-scrollable {\n    max-height: calc(100vh - 280px);\n    overflow: auto;\n}"]}
