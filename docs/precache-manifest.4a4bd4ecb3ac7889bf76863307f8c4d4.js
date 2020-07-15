@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "082516f8ef1b2e14cb100e2159c49d08",
+    "revision": "f51d423a26ef44378ba6dfcbed69501d",
     "url": "/reactive-monsters/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactive-monsters/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "8e10d2db0f31095ff78f",
+    "revision": "a63d9632a63e63354a83",
     "url": "/reactive-monsters/static/css/main.64c22d87.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactive-monsters/static/js/2.ea406979.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e10d2db0f31095ff78f",
-    "url": "/reactive-monsters/static/js/main.e2dd69d4.chunk.js"
+    "revision": "a63d9632a63e63354a83",
+    "url": "/reactive-monsters/static/js/main.2006f12c.chunk.js"
   },
   {
     "revision": "f83e577965d08c1530f0",

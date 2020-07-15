@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactive-monsters/static/css/main.64c22d87.chunk.css",
-    "main.js": "/reactive-monsters/static/js/main.e2dd69d4.chunk.js",
-    "main.js.map": "/reactive-monsters/static/js/main.e2dd69d4.chunk.js.map",
+    "main.js": "/reactive-monsters/static/js/main.2006f12c.chunk.js",
+    "main.js.map": "/reactive-monsters/static/js/main.2006f12c.chunk.js.map",
     "runtime-main.js": "/reactive-monsters/static/js/runtime-main.f1dab95e.js",
     "runtime-main.js.map": "/reactive-monsters/static/js/runtime-main.f1dab95e.js.map",
     "static/css/2.af3c1da9.chunk.css": "/reactive-monsters/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ea406979.chunk.js": "/reactive-monsters/static/js/2.ea406979.chunk.js",
     "static/js/2.ea406979.chunk.js.map": "/reactive-monsters/static/js/2.ea406979.chunk.js.map",
     "index.html": "/reactive-monsters/index.html",
-    "precache-manifest.7147dd5146870f69091f05a7dc0c3c7c.js": "/reactive-monsters/precache-manifest.7147dd5146870f69091f05a7dc0c3c7c.js",
+    "precache-manifest.4a4bd4ecb3ac7889bf76863307f8c4d4.js": "/reactive-monsters/precache-manifest.4a4bd4ecb3ac7889bf76863307f8c4d4.js",
     "service-worker.js": "/reactive-monsters/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/reactive-monsters/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.64c22d87.chunk.css.map": "/reactive-monsters/static/css/main.64c22d87.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ea406979.chunk.js",
     "static/css/main.64c22d87.chunk.css",
-    "static/js/main.e2dd69d4.chunk.js"
+    "static/js/main.2006f12c.chunk.js"
   ]
 }

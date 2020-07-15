@@ -61,7 +61,7 @@ function App() {
           <div className="card">
             <div className="card-header bg-dark text-light">{pokedetails.name}</div>
             <div className="card-body">
-              <img src={pokedetails.sprites.front_default} width="192px" />
+              <img src={pokedetails.sprites.front_default} style={{width:"288px", imageRendering:"pixelated"}} />
             </div>
           </div>
         </div>
